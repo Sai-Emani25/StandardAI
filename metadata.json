@@ -1,0 +1,6 @@
+{
+  "name": "BIS Standards AI Engine",
+  "description": "High-latency AI-powered recommendation engine for Bureau of Indian Standards (BIS) in building materials, featuring RAG-based rationale and real-time performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
